@@ -45,7 +45,7 @@ thank you for coming to this site.
 table, th, td {
   border: 1px solid black;
 }
-table{background-color:orange;
+table{background-color:lightgrey;
 opacity:0.9;}
 
 </style>
